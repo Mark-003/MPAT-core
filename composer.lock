@@ -301,12 +301,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/MPAT-eu/mpat-explorer.git",
-                "reference": "5f2f35091d0ddfab43c1a76835f7c64fbd934850"
+                "reference": "9555a206c6c46d8e6bbc21edd9416ee506cb6ca0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MPAT-eu/mpat-explorer/zipball/5f2f35091d0ddfab43c1a76835f7c64fbd934850",
-                "reference": "5f2f35091d0ddfab43c1a76835f7c64fbd934850",
+                "url": "https://api.github.com/repos/MPAT-eu/mpat-explorer/zipball/9555a206c6c46d8e6bbc21edd9416ee506cb6ca0",
+                "reference": "9555a206c6c46d8e6bbc21edd9416ee506cb6ca0",
                 "shasum": ""
             },
             "type": "wordpress-plugin",
@@ -324,7 +324,7 @@
                 "source": "https://github.com/MPAT-eu/mpat-explorer/tree/master",
                 "issues": "https://github.com/MPAT-eu/mpat-explorer/issues"
             },
-            "time": "2017-11-14T13:17:25+00:00"
+            "time": "2017-12-07T10:28:54+00:00"
         },
         {
             "name": "mpat/mpat-importexport",
@@ -363,12 +363,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/MPAT-eu/MPAT-plugins.git",
-                "reference": "72112187897cd4c2e15e6289eac2e0e6eef9bf8a"
+                "reference": "346c2ba9b1e695a90f78af60df109c26e56bb475"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MPAT-eu/MPAT-plugins/zipball/72112187897cd4c2e15e6289eac2e0e6eef9bf8a",
-                "reference": "72112187897cd4c2e15e6289eac2e0e6eef9bf8a",
+                "url": "https://api.github.com/repos/MPAT-eu/MPAT-plugins/zipball/346c2ba9b1e695a90f78af60df109c26e56bb475",
+                "reference": "346c2ba9b1e695a90f78af60df109c26e56bb475",
                 "shasum": ""
             },
             "require": {
@@ -399,7 +399,7 @@
                 "source": "https://github.com/MPAT-eu/MPAT-plugins/tree/master",
                 "issues": "https://github.com/MPAT-eu/MPAT-plugins/issues"
             },
-            "time": "2017-11-23T17:33:39+00:00"
+            "time": "2017-12-08T12:30:10+00:00"
         },
         {
             "name": "mpat/mpat-theme",
