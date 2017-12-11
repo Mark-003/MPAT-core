@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a640529514f21fc029d5ca58a836d283",
+    "content-hash": "aa52ebd67a947f2ba48f1f076521b303",
     "packages": [
         {
             "name": "composer/installers",
@@ -362,13 +362,13 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/MPAT-eu/MPAT-plugins.git",
-                "reference": "346c2ba9b1e695a90f78af60df109c26e56bb475"
+                "url": "https://github.com/Mark-003/MPAT-plugins.git",
+                "reference": "06767c4333db39fa15f4cb28fe045805b4e006b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MPAT-eu/MPAT-plugins/zipball/346c2ba9b1e695a90f78af60df109c26e56bb475",
-                "reference": "346c2ba9b1e695a90f78af60df109c26e56bb475",
+                "url": "https://api.github.com/repos/Mark-003/MPAT-plugins/zipball/06767c4333db39fa15f4cb28fe045805b4e006b4",
+                "reference": "06767c4333db39fa15f4cb28fe045805b4e006b4",
                 "shasum": ""
             },
             "require": {
@@ -396,10 +396,9 @@
             ],
             "description": "MPAT main plugin",
             "support": {
-                "source": "https://github.com/MPAT-eu/MPAT-plugins/tree/master",
-                "issues": "https://github.com/MPAT-eu/MPAT-plugins/issues"
+                "source": "https://github.com/Mark-003/MPAT-plugins/tree/master"
             },
-            "time": "2017-12-08T12:30:10+00:00"
+            "time": "2017-12-11T00:31:17+00:00"
         },
         {
             "name": "mpat/mpat-theme",
