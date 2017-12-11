@@ -33,6 +33,9 @@
             "url" : "git@github.com:Mark-003/MPAT-plugins.git"
         }, {
             "type" : "vcs",
+            "url" : "git@github.com:Mark-003/MPAT-AdInsertion-plugin.git"
+        }, {
+            "type" : "vcs",
             "url" : "git@github.com:WP-API/Basic-Auth.git"
         }, {
             "type" : "vcs",
@@ -64,6 +67,7 @@
         "wpackagist-plugin/enhanced-media-library": "^2.4.4",
         "wpackagist-plugin/members" : "^1.1.1",
         "mpat/mpat-plugins" : "dev-master",
+        "mpat/mpat-adinsertion-plugin" : "dev-master",
         "mpat/mpat-theme" : "dev-master",
         "mpat/mpat-importexport" : "dev-master",
         "mpat/mpat-explorer" : "dev-master",

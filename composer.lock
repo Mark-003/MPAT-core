@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "aa52ebd67a947f2ba48f1f076521b303",
+    "content-hash": "3c86200523140f850305abe22931d969",
     "packages": [
         {
             "name": "composer/installers",
@@ -294,6 +294,36 @@
                 "source": "https://github.com/MPAT-eu/cpo/tree/master"
             },
             "time": "2017-10-09T10:31:47+00:00"
+        },
+        {
+            "name": "mpat/mpat-adinsertion-plugin",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Mark-003/MPAT-AdInsertion-plugin.git",
+                "reference": "af911bac8db6dcc8fc70a16fbb0ad8bb5d23d62d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Mark-003/MPAT-AdInsertion-plugin/zipball/af911bac8db6dcc8fc70a16fbb0ad8bb5d23d62d",
+                "reference": "af911bac8db6dcc8fc70a16fbb0ad8bb5d23d62d",
+                "shasum": ""
+            },
+            "type": "wordpress-plugin",
+            "license": [
+                "GPL2"
+            ],
+            "authors": [
+                {
+                    "name": "Mark-003"
+                }
+            ],
+            "description": "MPAT Ad Insertion Plugin",
+            "support": {
+                "source": "https://github.com/Mark-003/MPAT-AdInsertion-plugin/tree/master",
+                "issues": "https://github.com/Mark-003/MPAT-AdInsertion-plugin/issues"
+            },
+            "time": "2017-12-11T19:39:43+00:00"
         },
         {
             "name": "mpat/mpat-explorer",
@@ -771,6 +801,7 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "mpat/mpat-plugins": 20,
+        "mpat/mpat-adinsertion-plugin": 20,
         "mpat/mpat-theme": 20,
         "mpat/mpat-importexport": 20,
         "mpat/mpat-explorer": 20,
